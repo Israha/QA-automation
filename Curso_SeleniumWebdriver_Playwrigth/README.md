@@ -15,3 +15,4 @@ Curso da Udemy: [Selenium WebDriver com Python][(https://www.udemy.com/course/au
 Python, Selenium WebDriver, Pytest
 
 ## Observações
+![Certificado de conclusão do curso Selenium WebDriver com Python](image.png)

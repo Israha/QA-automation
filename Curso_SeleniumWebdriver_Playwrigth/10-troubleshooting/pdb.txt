@@ -1,0 +1,3 @@
+ -- pdb(debbugging) ao final do nome do arquivo: Ele corre e ja para no primeiro erro, mostrando
+--trace             ''             : Assim que o teste iniciar ele vai correndo linha a linha
+breakpoint()
