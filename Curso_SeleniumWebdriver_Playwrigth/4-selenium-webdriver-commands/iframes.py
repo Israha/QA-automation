@@ -25,3 +25,4 @@ browser.get("https://leogcarvalho.github.io/test-automation-practice/")
 
 # sempre respeitar a hierarquia do iframe, se tiver um iframe dentro de outro,
 #  tem que ir para o primeiro e depois para o segundo
+browser.quit()

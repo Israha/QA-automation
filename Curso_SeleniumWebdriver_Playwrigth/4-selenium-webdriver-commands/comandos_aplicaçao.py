@@ -10,3 +10,4 @@ print(browser.title)
 print(browser.current_url)
 # page_source = browser.page_source
 print(browser.page_source)
+browser.quit()

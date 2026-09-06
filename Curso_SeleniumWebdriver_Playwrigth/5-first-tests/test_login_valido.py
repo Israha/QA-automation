@@ -15,3 +15,4 @@ driver.find_element(By.ID, "password").send_keys("secret_sauce")
 driver.find_element(By.ID, "login-button").click()
 time.sleep(2)
 assert driver.find_element(By.XPATH, "//span[@class='title']").text == "Products"
+driver.quit()
