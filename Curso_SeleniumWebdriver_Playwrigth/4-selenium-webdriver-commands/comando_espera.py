@@ -37,3 +37,4 @@ wait.until(EC.invisibility_of_element_located((By.ID, "login-button")))
 # wait.until(EC.element_to_clickable(By.ID, "disabled-button"))
 # elemento ser selecionado
 # wait.until(EC.element_to_be_selected((By.ID, "login-button")))
+browser.quit()

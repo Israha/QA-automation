@@ -25,3 +25,4 @@ assert not checkbox_remember_me.is_selected()
 
 checkbox_remember_me.click()
 print(checkbox_remember_me.is_selected())
+browser.quit()

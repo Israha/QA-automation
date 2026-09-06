@@ -1,0 +1,17 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}\\.venv_novo\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.testing.autoTestDiscoverOnSaveEnabled": false,
+    "terminal.integrated.cwd": "${workspaceFolder}",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell (QA-automation)": {
+            "source": "PowerShell",
+            "args": [
+                "-NoExit",
+                "-Command",
+                "& \"${workspaceFolder}\\.venv_novo\\Scripts\\Activate.ps1\"; function prompt { if ($env:VIRTUAL_ENV) { \"(.venv_novo) $(Split-Path -Leaf (Get-Location))> \" } else { \"$(Split-Path -Leaf (Get-Location))> \" } }"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell (QA-automation)"
+}
