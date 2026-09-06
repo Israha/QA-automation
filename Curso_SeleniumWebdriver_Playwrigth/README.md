@@ -2,11 +2,11 @@ Curso da Udemy: [Selenium WebDriver com Python][(https://www.udemy.com/course/au
 
 ## Progresso
 - [x] Módulo 1 - Introdução
-- [x] Módulo 2 - element-mapping
-- [x] Módulo 3 - selenium-webdriver-commands
-- [x] Módulo 4 - first-tests
-- [x] Módulo 5 - pytest-basics
-- [x] Módulo 6 - page-objects-pattern
+- [x] Módulo 3 - element-mapping
+- [x] Módulo 4 - selenium-webdriver-commands
+- [x] Módulo 5 - first-tests
+- [x] Módulo 6 - pytest-basics
+- [x] Módulo 7 - page-objects-pattern
 - [x] Módulo 7 - framework-functions
 - [x] Módulo 8 - debugging-pytest
 - [x] Módulo 9 - troubleshooting
