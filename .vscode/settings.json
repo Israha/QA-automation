@@ -1,5 +1,6 @@
 {
     "python.defaultInterpreterPath": "${workspaceFolder}\\.venv_novo\\Scripts\\python.exe",
+    "python.languageServer": "Pylance",
     "python.terminal.activateEnvironment": true,
     "python.testing.autoTestDiscoverOnSaveEnabled": false,
     "terminal.integrated.cwd": "${workspaceFolder}",
@@ -13,5 +14,6 @@
             ]
         }
     },
-    "terminal.integrated.defaultProfile.windows": "PowerShell (QA-automation)"
+    "terminal.integrated.defaultProfile.windows": "PowerShell (QA-automation)",
+    "chat.disableAIFeatures": false
 }
